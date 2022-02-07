@@ -1,2 +1,2 @@
 # frequency
-mains frequency deteermination from 1 phase
+mains frequency determination from 1 phase
